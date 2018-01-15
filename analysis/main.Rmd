@@ -1,5 +1,5 @@
 ---
-title: "old_snapshot"
+title: "new_snapshot"
 subtitle: "My analysis"
 author: "My Name"
 date: "June 2017"
@@ -16,11 +16,7 @@ output:
 
 
 ```{r, echo=FALSE}
-# CONFIG
-user_name <- "grssnbchr" # your Git username (only needed if
-# you want to deploy to GH pages)
-project_name <- "rddj-template" # adapt!
-package_date <- "2017-09-01" # date of the CRAN snapshot that
+package_date <- "2018-01-10" # date of the CRAN snapshot that
 # the checkpoint package uses
 ```
 
